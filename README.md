@@ -4,6 +4,8 @@
 
 https://mariakopo.github.io/Miniex_08/
 
+![Screenshot](https://github.com/mariakopo/Miniex_08/blob/gh-pages/Sk%C3%A6rmbillede%202017-04-03%20kl.%2000.55.41.png)
+
 
 //What is your selected coding challenge?
 
@@ -30,3 +32,7 @@ I think it is to create a flowchart that is suitable for the program and using t
 It is a good way to show a solution to a hole problem even when there are can be complex. 
 It is a useful tool to visually make structure and organize the ideas. Once a flowchart is drawn, it becomes comparatively easy to write the program in any high level language. In other words, flowcharts are mandatory for good documentation of a complex program.
 
+
+//Flowchart
+
+![Screenshot](https://github.com/mariakopo/Miniex_08/blob/gh-pages/Sk%C3%A6rmbillede%202017-04-03%20kl.%2000.54.00.png)
